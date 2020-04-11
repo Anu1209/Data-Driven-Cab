@@ -1,12 +1,7 @@
-# Smart Cab
-*Udacity - Machine learning Nano Degree Program : Project-4*
+# Data Drive Cab
 
 ## Project Overview
-*This is fifth project in the series of the projects listed in Udacity- Machine Learning Nano Degree Program.*
-
-In the not-so-distant future, taxicab companies across the United States no longer employ human drivers to operate their fleet of vehicles. Instead, the taxicabs are operated by self-driving agents, known as **SmartCabs**, to transport people from one location to another within the cities those companies operate. In major metropolitan areas, such as Chicago, New York City, and San Francisco, an increasing number of people have come to depend on smartcabs to get to where they need to go as safely and reliably as possible. 
-
-*Although smartcabs have become the transport of choice, concerns have arose that a self-driving agent might not be as safe or reliable as human drivers, particularly when considering city traffic lights and other vehicles. To alleviate these concerns, My task as an employee for a national taxicab company is to use reinforcement learning techniques to construct a demonstration of a smartcab operating in real-time to prove that both safety and reliability can be achieved.*
+*In the not-so-distant future, taxicab companies across the United States no longer employ human drivers to operate their fleet of vehicles. Instead, the taxicabs are operated by self-driving agents, known as **DataDrivenCab**, to transport people from one location to another within the cities those companies operate. In major metropolitan areas, such as Chicago, New York City, and San Francisco, an increasing number of people have come to depend on smartcabs to get to where they need to go as safely and reliably as possible. 
 
 ![Smart-Cab](https://github.com/Rajat-dhyani/Smart-Cab/blob/master/rajat-dhyani-smart-cab.png)
 
@@ -28,21 +23,13 @@ The smartcab will receive positive or negative rewards based on the action it ha
 
 **Achievements**
 * Applied reinforcement learning to build a simulated vehicle navigation agent. 
-* Achieved A+ rating in both safety and reliability of smart-cab.
+* Achieved A+ rating in both safety and reliability of data-driven-cab.
 
 Things i have learnt by completing this project:
 * How to apply reinforcement learning techniques: Q-learning algorithms.
 * How to investigate the environment and train our agent to operate in the specified environment.
 * How to analyze agent's performance in the given environment.
 * How to optimise Q-learning algortithm, to ensure increase in postive results.
-
-### Other Related Projects:
-* <strong> Project 0 : </strong> *[Titanic Survivals Prediction](https://github.com/Rajat-dhyani/titanic_survival)*
-* <strong> Project 1 : </strong> *[Boston's Houses Prediction](https://github.com/Rajat-dhyani/boston_housing)*
-* <strong> Project 2 : </strong> *[Charity Donors Prediction](https://github.com/Rajat-dhyani/charity_donors)*
-* <strong> Project 3 : </strong> *[Creating Customer Segments](https://github.com/Rajat-dhyani/creating_customer_segments)*
-* <strong> Project 5 : </strong> *[ImageNetBot](https://github.com/Rajat-dhyani/ImageNetBot)*
-* <strong> Project 6 : </strong> *[Stock Price Predictor](https://github.com/Rajat-dhyani/Stock-Price-Predictor)*
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
