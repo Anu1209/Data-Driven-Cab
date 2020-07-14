@@ -34,7 +34,6 @@ Things i have learnt by completing this project:
 ## Software and Libraries
 This project uses the following software and Python libraries:
 
-* [Python 2.7](https://www.python.org/download/releases/2.7/)
 * [NumPy](http://www.numpy.org/)
 * [pandas](http://pandas.pydata.org/)
 * [scikit-learn](http://scikit-learn.org/0.17/install.html) (v0.17)
